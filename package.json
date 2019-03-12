@@ -1,0 +1,10 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {},
+  "author": "csauve",
+  "license": "MIT"
+}
